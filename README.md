@@ -6,8 +6,9 @@ Although reading papers is very important, it does not produce immediate or visi
 ### Chat Vector (2024-12-25)
 
 
-
+#### Research Gap
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1MzE5MDc3LDE0Njg4NjU5NzBdfQ==
+eyJoaXN0b3J5IjpbLTY0NjMxNjI2Miw2MTUzMTkwNzcsMTQ2OD
+g2NTk3MF19
 -->

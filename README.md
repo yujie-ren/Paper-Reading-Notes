@@ -5,7 +5,7 @@ Although reading papers is very important, it does not produce immediate or visi
 
 ### Chat Vector (2024-12-25)
 
-**Basic Infor**
+1. Basic Infor
 - Chat Vector: A Simple Approach to Equip  LLMs with Instruction Following and Model Alignment in New Languages [[pdf]](https://aclanthology.org/2024.acl-long.590.pdf)
 - Hung-yi Lee, National Taiwan University  
 - arxiv2310, ACL2408-long 
@@ -23,7 +23,7 @@ Although reading papers is very important, it does not produce immediate or visi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODE5OTM0NjAsMTgwMDIxMzUzMSwtMj
-ExNjMwNjQ4OCwtMTU5MTMwNDE5LDg4NzAwODU0NSwtNjQ2MzE2
-MjYyLDYxNTMxOTA3NywxNDY4ODY1OTcwXX0=
+eyJoaXN0b3J5IjpbMzI4ODgxOTk3LC0xNTgxOTkzNDYwLDE4MD
+AyMTM1MzEsLTIxMTYzMDY0ODgsLTE1OTEzMDQxOSw4ODcwMDg1
+NDUsLTY0NjMxNjI2Miw2MTUzMTkwNzcsMTQ2ODg2NTk3MF19
 -->

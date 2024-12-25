@@ -12,8 +12,13 @@ Although reading papers is very important, it does not produce immediate or visi
 
 **Research Gap**
 
+
+**Method**
+
+
+**Result**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjA2NjkzMSwtMjExNjMwNjQ4OCwtMT
-U5MTMwNDE5LDg4NzAwODU0NSwtNjQ2MzE2MjYyLDYxNTMxOTA3
-NywxNDY4ODY1OTcwXX0=
+eyJoaXN0b3J5IjpbLTE4OTAwNTEwNDUsLTIxMTYzMDY0ODgsLT
+E1OTEzMDQxOSw4ODcwMDg1NDUsLTY0NjMxNjI2Miw2MTUzMTkw
+NzcsMTQ2ODg2NTk3MF19
 -->

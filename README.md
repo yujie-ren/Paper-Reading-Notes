@@ -4,11 +4,11 @@ Although reading papers is very important, it does not produce immediate or visi
 
 
 ### Chat Vector (2024-12-25)
-Paper
+- Chat Vector: A Simple Approach to Equip  LLMs with Instruction Following and Model Alignment in New Languages [[pdf]](https://aclanthology.org/2024.acl-long.590.pdf)
 
 #### Research Gap
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3ODY1ODAwLC02NDYzMTYyNjIsNjE1Mz
+eyJoaXN0b3J5IjpbODg3MDA4NTQ1LC02NDYzMTYyNjIsNjE1Mz
 E5MDc3LDE0Njg4NjU5NzBdfQ==
 -->

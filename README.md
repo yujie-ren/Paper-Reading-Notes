@@ -8,9 +8,11 @@ Although reading papers is very important, it does not produce immediate or visi
 **Basic Infor**
 - Chat Vector: A Simple Approach to Equip  LLMs with Instruction Following and Model Alignment in New Languages [[pdf]](https://aclanthology.org/2024.acl-long.590.pdf)
 - Hung-yi Lee, National Taiwan University  
+- 
 **Research Gap**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTEzMDQxOSw4ODcwMDg1NDUsLTY0Nj
-MxNjI2Miw2MTUzMTkwNzcsMTQ2ODg2NTk3MF19
+eyJoaXN0b3J5IjpbLTIxMTYzMDY0ODgsLTE1OTEzMDQxOSw4OD
+cwMDg1NDUsLTY0NjMxNjI2Miw2MTUzMTkwNzcsMTQ2ODg2NTk3
+MF19
 -->

@@ -10,21 +10,21 @@ Although reading papers is very important, it does not produce immediate or visi
 - Hung-yi Lee, National Taiwan University  
 - arxiv2310, ACL2408-long 
 
-**Research Gap**
+**2. Research Gap**
 
 
-**Method**
+**3. Method**
 
 
-**Result**
+**4. Result**
 
 
-**Takeaway**
+**5. Takeaway**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDcxMTQ5OTUsLTE1ODE5OTM0NjAsMT
-gwMDIxMzUzMSwtMjExNjMwNjQ4OCwtMTU5MTMwNDE5LDg4NzAw
-ODU0NSwtNjQ2MzE2MjYyLDYxNTMxOTA3NywxNDY4ODY1OTcwXX
-0=
+eyJoaXN0b3J5IjpbLTUzMjA0ODAwMSwtMTU4MTk5MzQ2MCwxOD
+AwMjEzNTMxLC0yMTE2MzA2NDg4LC0xNTkxMzA0MTksODg3MDA4
+NTQ1LC02NDYzMTYyNjIsNjE1MzE5MDc3LDE0Njg4NjU5NzBdfQ
+==
 -->

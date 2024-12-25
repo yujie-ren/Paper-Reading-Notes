@@ -17,8 +17,13 @@ Although reading papers is very important, it does not produce immediate or visi
 
 
 **Result**
+
+
+**Takeaway**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDIxMzUzMSwtMjExNjMwNjQ4OCwtMT
-U5MTMwNDE5LDg4NzAwODU0NSwtNjQ2MzE2MjYyLDYxNTMxOTA3
-NywxNDY4ODY1OTcwXX0=
+eyJoaXN0b3J5IjpbLTE1ODE5OTM0NjAsMTgwMDIxMzUzMSwtMj
+ExNjMwNjQ4OCwtMTU5MTMwNDE5LDg4NzAwODU0NSwtNjQ2MzE2
+MjYyLDYxNTMxOTA3NywxNDY4ODY1OTcwXX0=
 -->

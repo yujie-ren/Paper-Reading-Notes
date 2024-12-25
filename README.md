@@ -1,6 +1,6 @@
 # Paper-Reading-Notes
 Make reading papers visible!
-Although reading papers is very important, it does not produce visible results, which makes it a less fulfilling task during research. This repository will be used to record notes while reading papers to make this process more visible.
+Although reading papers is very important, it does not produce immediate or visible results, which makes it less fulfilling. This repository will be used to record notes while reading papers, aiming to make the process more rewarding and visible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODU2NDExNCwxNDY4ODY1OTcwXX0=
+eyJoaXN0b3J5IjpbLTE2MjMwNTE5NiwxNDY4ODY1OTcwXX0=
 -->
